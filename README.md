@@ -1,5 +1,4 @@
-# example-kotlinspek
-Example Kotlin Spek
+# Example Kotlin Spek 
 
 Kotlin: http://kotlinlang.org/
 
